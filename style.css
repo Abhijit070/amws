@@ -1,0 +1,50 @@
+#heading_info{
+    width:100%;
+    text-align: left;
+
+}
+
+
+#heading_info button{
+    float: right;
+    border: 3px solid white;
+    
+}
+
+#heading_info h3{
+    display: inline;
+}
+
+#mario_image{
+    height:600px ;
+    width: 100%;
+}
+
+#copy_right_fotter{
+    bottom: 0px;
+    position: fixed;
+    background-color: aquamarine;
+    color: orange;
+    width: 100%;
+}
+
+.modal-header h3{
+    display: inline;
+}
+
+.inst{
+    display: inline-block;
+    width: 45%;
+
+}
+
+.modal-dialog{
+    width: 90%;
+}
+
+video{
+    background-image:url("game_console.png") ;
+     background-size: cover;
+     background-position: center;
+     padding: 20px;
+}
